@@ -1,4 +1,4 @@
-Share of movies vs. series in the entire catalog
+Movies vs. TV Shows: Content Type Distribution
 
 SELECT type, COUNT(*) AS count
 FROM netflix_titles
