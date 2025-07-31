@@ -1,4 +1,5 @@
-🎬 Netflix Content Analysis
+🎬 Netflix Content Analysis 🎬
+
 This project explores the structure of Netflix’s catalog using data available on [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows). The goal was to extract key insights about the type, volume, and characteristics of the content available on the platform.
 
 📊 Tools used:
